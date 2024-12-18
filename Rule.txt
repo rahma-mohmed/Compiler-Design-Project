@@ -1,0 +1,3 @@
+A->BAe|#
+B->bBCf|C
+C->cCg|d|i

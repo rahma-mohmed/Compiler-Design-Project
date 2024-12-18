@@ -1,0 +1,22 @@
+a = 10
+b = 5
+sum_result = a + b
+print("Addition:", a, "+", b, "=", sum_result)
+sub_result = a - b
+print("Subtraction:", a, "-", b, "=", sub_result)
+mul_result = a * b
+print("Multiplication:", a, "*", b, "=", mul_result)
+div_result = a / b
+print("Division:", a, "/", b, "=", div_result)
+
+txt1 = "i love"
+txt2 = " python"
+print(txt1)
+
+arr = [1, 2, 3, 4, 5]
+print(arr)
+
+if a > b:
+     print(a, "is greater than", b)
+else:
+     print(b, "is greater than or equal to", a)
